@@ -1,0 +1,94 @@
+[
+  {
+    "id": "PET-001",
+    "name": "Luna",
+    "species": "Dog",
+    "breed": "Golden Retriever",
+    "gender": "Female",
+    "age_years": 3.5,
+    "weight_kg": 28.4,
+    "target_weight_kg": 27.5,
+    "microchip_id": "98514100101",
+    "category_tag": "CANINE",
+    "diet_type": "High-Protein Kibble",
+    "daily_target_calories_kcal": 1350,
+    "daily_target_water_ml": 1800,
+    "daily_target_exercise_min": 60,
+    "allergies": ["Chicken By-product", "Pollen"],
+    "medications": [
+      {"name": "Heartgard Plus", "dosage": "1 chewable monthly", "next_due": "2026-09-15"},
+      {"name": "Glucosamine Joint Support", "dosage": "1 tablet daily", "next_due": "Daily"}
+    ],
+    "vaccinations": [
+      {"vaccine": "Rabies", "date_administered": "2026-03-10", "valid_until": "2027-03-10", "status": "Valid"},
+      {"vaccine": "DHPP (Distemper/Parvo)", "date_administered": "2026-01-15", "valid_until": "2027-01-15", "status": "Valid"},
+      {"vaccine": "Bordetella", "date_administered": "2025-11-20", "valid_until": "2026-11-20", "status": "Valid"}
+    ],
+    "vet_contacts": {
+      "clinic": "Metro Animal Health Hospital",
+      "primary_vet": "Dr. Sarah Jenkins, DVM",
+      "phone": "+1-555-019-2834"
+    }
+  },
+  {
+    "id": "PET-002",
+    "name": "Milo",
+    "species": "Cat",
+    "breed": "British Shorthair",
+    "gender": "Male",
+    "age_years": 2.0,
+    "weight_kg": 4.6,
+    "target_weight_kg": 4.5,
+    "microchip_id": "98514100202",
+    "category_tag": "FELINE",
+    "diet_type": "Indoor Wet & Dry Mix",
+    "daily_target_calories_kcal": 280,
+    "daily_target_water_ml": 250,
+    "daily_target_exercise_min": 30,
+    "allergies": ["None Recorded"],
+    "medications": [
+      {"name": "Revolution Plus", "dosage": "Topical monthly", "next_due": "2026-09-01"}
+    ],
+    "vaccinations": [
+      {"vaccine": "FVRCP", "date_administered": "2026-02-12", "valid_until": "2027-02-12", "status": "Valid"},
+      {"vaccine": "Rabies", "date_administered": "2026-02-12", "valid_until": "2027-02-12", "status": "Valid"},
+      {"vaccine": "FeLV", "date_administered": "2025-10-05", "valid_until": "2026-10-05", "status": "Valid"}
+    ],
+    "vet_contacts": {
+      "clinic": "Feline Care Veterinary Clinic",
+      "primary_vet": "Dr. Alex Patel, DVM",
+      "phone": "+1-555-014-9921"
+    }
+  },
+  {
+    "id": "PET-003",
+    "name": "Rocky",
+    "species": "Dog",
+    "breed": "German Shepherd",
+    "gender": "Male",
+    "age_years": 5.0,
+    "weight_kg": 34.2,
+    "target_weight_kg": 33.0,
+    "microchip_id": "98514100303",
+    "category_tag": "CANINE",
+    "diet_type": "Active Working Breed Formula",
+    "daily_target_calories_kcal": 1600,
+    "daily_target_water_ml": 2200,
+    "daily_target_exercise_min": 90,
+    "allergies": ["Wheat / Grain sensitivity"],
+    "medications": [
+      {"name": "Omega-3 Fish Oil", "dosage": "2 capsules daily", "next_due": "Daily"},
+      {"name": "NexGard Spectra", "dosage": "1 chew monthly", "next_due": "2026-09-10"}
+    ],
+    "vaccinations": [
+      {"vaccine": "Rabies", "date_administered": "2026-05-18", "valid_until": "2027-05-18", "status": "Valid"},
+      {"vaccine": "DHPP", "date_administered": "2026-05-18", "valid_until": "2027-05-18", "status": "Valid"},
+      {"vaccine": "Leptospirosis", "date_administered": "2026-05-18", "valid_until": "2027-05-18", "status": "Valid"}
+    ],
+    "vet_contacts": {
+      "clinic": "Apex K9 Specialist Clinic",
+      "primary_vet": "Dr. Marcus Vance, DVM",
+      "phone": "+1-555-018-7744"
+    }
+  }
+]
